@@ -1,0 +1,45 @@
+F:\Epam_Homework\task_3\array\Array\bin\Debug\net48\Array.dll
+F:\Epam_Homework\task_3\array\Array\bin\Debug\net48\Array.pdb
+F:\Epam_Homework\task_3\array\Array\obj\Debug\net48\Array.csproj.AssemblyReference.cache
+F:\Epam_Homework\task_3\array\Array\obj\Debug\net48\Array.GeneratedMSBuildEditorConfig.editorconfig
+F:\Epam_Homework\task_3\array\Array\obj\Debug\net48\Array.AssemblyInfoInputs.cache
+F:\Epam_Homework\task_3\array\Array\obj\Debug\net48\Array.AssemblyInfo.cs
+F:\Epam_Homework\task_3\array\Array\obj\Debug\net48\Array.csproj.CoreCompileInputs.cache
+F:\Epam_Homework\task_3\array\Array\obj\Debug\net48\Array.dll
+F:\Epam_Homework\task_3\array\Array\obj\Debug\net48\Array.pdb
+A:\Repositories\4-th course\array\Array\bin\Debug\net48\Array.dll
+A:\Repositories\4-th course\array\Array\bin\Debug\net48\Array.pdb
+A:\Repositories\4-th course\array\Array\obj\Debug\net48\Array.csproj.AssemblyReference.cache
+A:\Repositories\4-th course\array\Array\obj\Debug\net48\Array.GeneratedMSBuildEditorConfig.editorconfig
+A:\Repositories\4-th course\array\Array\obj\Debug\net48\Array.AssemblyInfoInputs.cache
+A:\Repositories\4-th course\array\Array\obj\Debug\net48\Array.AssemblyInfo.cs
+A:\Repositories\4-th course\array\Array\obj\Debug\net48\Array.csproj.CoreCompileInputs.cache
+A:\Repositories\4-th course\array\Array\obj\Debug\net48\Array.dll
+A:\Repositories\4-th course\array\Array\obj\Debug\net48\Array.pdb
+A:\university\fourth year first semester\ASP.NET\array\Array\bin\Debug\net48\Array.dll
+A:\university\fourth year first semester\ASP.NET\array\Array\bin\Debug\net48\Array.pdb
+A:\university\fourth year first semester\ASP.NET\array\Array\obj\Debug\net48\Array.csproj.AssemblyReference.cache
+A:\university\fourth year first semester\ASP.NET\array\Array\obj\Debug\net48\Array.GeneratedMSBuildEditorConfig.editorconfig
+A:\university\fourth year first semester\ASP.NET\array\Array\obj\Debug\net48\Array.AssemblyInfoInputs.cache
+A:\university\fourth year first semester\ASP.NET\array\Array\obj\Debug\net48\Array.AssemblyInfo.cs
+A:\university\fourth year first semester\ASP.NET\array\Array\obj\Debug\net48\Array.csproj.CoreCompileInputs.cache
+A:\university\fourth year first semester\ASP.NET\array\Array\obj\Debug\net48\Array.dll
+A:\university\fourth year first semester\ASP.NET\array\Array\obj\Debug\net48\Array.pdb
+C:\Users\admin\Desktop\csharp\array\Array\bin\Debug\net48\Array.dll
+C:\Users\admin\Desktop\csharp\array\Array\bin\Debug\net48\Array.pdb
+C:\Users\admin\Desktop\csharp\array\Array\obj\Debug\net48\Array.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\csharp\array\Array\obj\Debug\net48\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\csharp\array\Array\obj\Debug\net48\Array.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\csharp\array\Array\obj\Debug\net48\Array.AssemblyInfo.cs
+C:\Users\admin\Desktop\csharp\array\Array\obj\Debug\net48\Array.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\csharp\array\Array\obj\Debug\net48\Array.dll
+C:\Users\admin\Desktop\csharp\array\Array\obj\Debug\net48\Array.pdb
+C:\Users\Администратор\Desktop\Універ\Ашп нет\array\Array\bin\Debug\net48\Array.dll
+C:\Users\Администратор\Desktop\Універ\Ашп нет\array\Array\bin\Debug\net48\Array.pdb
+C:\Users\Администратор\Desktop\Універ\Ашп нет\array\Array\obj\Debug\net48\Array.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\Універ\Ашп нет\array\Array\obj\Debug\net48\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\Універ\Ашп нет\array\Array\obj\Debug\net48\Array.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\Універ\Ашп нет\array\Array\obj\Debug\net48\Array.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\Універ\Ашп нет\array\Array\obj\Debug\net48\Array.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Універ\Ашп нет\array\Array\obj\Debug\net48\Array.dll
+C:\Users\Администратор\Desktop\Універ\Ашп нет\array\Array\obj\Debug\net48\Array.pdb
